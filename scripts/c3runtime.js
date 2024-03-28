@@ -5469,7 +5469,7 @@ self.C3_ExpressionFuncs = [
 			return () => n0.ExpObject();
 		},
 		() => "email",
-		() => "http://localhost/c2mail.php/",
+		() => "https://tiojoaopedro.github.io/JunduTreinamentoInterativo/cs2main.php",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			const v1 = p._GetNode(1).GetVar();
